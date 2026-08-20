@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/go/blink",
+      "destination": "https://blink.new/?aff=anaya",
+      "permanent": false
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
