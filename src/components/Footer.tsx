@@ -78,7 +78,7 @@ export default function Footer() {
           <a
             href="/go/blink"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener"
             className="h-10.5 flex items-center justify-center gap-1.5 px-4 border border-white/35 dark:border-white/5 bg-white/20 dark:bg-white/5 backdrop-blur-md hover:border-white/60 dark:hover:border-white/20 hover:bg-white/30 dark:hover:bg-white/10 rounded-lg text-neutral-600 dark:text-neutral-300 hover:text-black dark:hover:text-white transition-all duration-200"
             title="Create with Blink.new"
           >
