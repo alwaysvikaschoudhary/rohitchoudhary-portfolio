@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/go/blink",
-      "destination": "https://blink.new/?aff=anaya",
+      "destination": "https://blink.new/?aff=ayush&source=portfolio-footer-blink-promotion",
       "permanent": false
     }
   ],
